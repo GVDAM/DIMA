@@ -1,2 +1,2 @@
 # DIMA
-App PWA para controle financeiro
+App PWA to financial control
