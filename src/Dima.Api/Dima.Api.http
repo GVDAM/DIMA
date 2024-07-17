@@ -1,0 +1,11 @@
+@Dima.Api_HostAddress = http://localhost:5273
+
+GET {{Dima.Api_HostAddress}}/todos/
+Accept: application/json
+
+###
+
+GET {{Dima.Api_HostAddress}}/todos/1
+Accept: application/json
+
+###
